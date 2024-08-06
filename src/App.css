@@ -45,17 +45,17 @@
 }
 
 .user{
-  border: 3px solid black;
+  border: 3px solid rgb(164, 167, 16);
   border-radius: 5px;
   width: 400px;
   bottom: 5px;
 }
 
 .form-wrapper{
-  border: 2px solid black;
-  width: 200px;
+  border: 2px solid rgb(53, 192, 11);
+  width: 150px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
